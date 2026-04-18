@@ -24,3 +24,6 @@ streamlit run app.py
 
 ## Live Demo
 🔗 [Click here to view the app](https://finalelectricity-bill-prediction-jrvnvhchmm7pbqfkw375zr.streamlit.app/)
+
+## Note
+This project was developed as a group project with contributions from multiple team members.
