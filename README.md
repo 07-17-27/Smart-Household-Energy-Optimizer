@@ -27,3 +27,9 @@ streamlit run app.py
 
 ## Note
 This project was developed as a group project with contributions from multiple team members.
+
+📬 Contact
+Email: shristi.off.02@gmail.com
+LinkedIn: https://www.linkedin.com/in/shristi-mishra-a68725331?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+⭐ If you like this project, feel free to give it a star!
